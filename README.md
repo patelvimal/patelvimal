@@ -10,6 +10,6 @@
     - TeamCity/CircleCI/Github-Actions
 
 ### 📫 How to reach me...
-  - Email:- vimal.patel.nvs@gmail.com
-  - Cell:- (+91)9604115399/9979224808
+    - Email:- vimal.patel.nvs@gmail.com
+    - Cell:- (+91)9604115399/9979224808
   
