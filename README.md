@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hello Devs 👋 I am a Full-Stack developer 🔭
+### Skill-Sets ⚡
+    - C#.Net/.NET Core
+    - Javascript/jQuery
+    - Angular
+    - React/Redux
+    - Sql-Server/Oracle
+    - CSS/SCSS/HTML5
+    - Docker/Kubernates
+    - TeamCity/CircleCI/Github-Actions
 
-<!--
-**patelvimal/patelvimal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 How to reach me...
+  - Email:- vimal.patel.nvs@gmail.com
+  - Cell:- (+91)9604115399/9979224808
+  
