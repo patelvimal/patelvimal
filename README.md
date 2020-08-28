@@ -13,4 +13,4 @@
     - Email:- vimal.patel.nvs@gmail.com
     - Cell:- (+91)9604115399/9979224808
   
-  [![Vimal's github stats](https://github-readme-stats.vercel.app/api?username=patelvimal&show_icons=true&theme=dark)]
+  ![Vimal's github stats](https://github-readme-stats.vercel.app/api?username=patelvimal&show_icons=true&theme=dark)
