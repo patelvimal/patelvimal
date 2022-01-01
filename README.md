@@ -34,8 +34,9 @@
 </p>
 <br />
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=patelvimal&show_icons=true&theme=radical" height="250px"/>
+## Stats:
+<p align="center" sty>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=patelvimal&show_icons=true&theme=radical" height="220px" style="margin-right: 15px;"/>
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patelvimal&layout=compact&theme=radical" height="250px"/>
 </p>
 
