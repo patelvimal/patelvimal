@@ -1,9 +1,8 @@
 ## Hi Everyone 👋 I am Vimal 🔭
 
-I am an Full stack Web Developer having 10+ years of development and implementation of business application system for Banking, Healthcare, E-Commerce, Insurance, Automobile various small businesses.
+- I am an Full stack Web Developer having 10+ years of development and implementation of business application system for Banking, Healthcare, E-Commerce, Insurance, Automobile various small businesses.
 
 <br/>
-
 							 
 ## Languages:
 <p align="center">
@@ -25,14 +24,14 @@ I am an Full stack Web Developer having 10+ years of development and implementat
 
 ## Stats:
 <p align="center">
-  <img width="420px" src="https://github-readme-stats.vercel.app/api?username=patelvimal&show_icons=true&theme=radical"/>
+  <img width="420px" src="https://github-readme-stats.vercel.app/api?username=patelvimal&show_icons=true&theme=radical" style="margin-right:25px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patelvimal&layout=compact&theme=radical"/>
 </p>
 <p align="center">
   
 </p>
 
-## Connect Me:
+## Connect With Me:
 <p>
 <a href="https://twitter.com/patel_vimal">
    <img align="left" alt="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
