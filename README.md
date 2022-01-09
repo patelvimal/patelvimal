@@ -1,8 +1,18 @@
 ## Hi Everyone 👋 I am Vimal 🔭
 
-- I am an Full stack Web Developer having 10+ years of development and implementation of business application system for Banking, Healthcare, E-Commerce, Insurance, Automobile various small businesses.
-
 <br/>
+
+- 💪 Currently working as a senior frontend engineer.
+- 🔏 Contribute to open source in free time.
+- 💼 10+ years of experience as full stack enginner.
+- 🏆 Business domain knowledge on Banking, Healthcare, E-Commerce, Insurance and various small businness.
+- 💝 Author of multiple open source projects.
+
+<!-- markdownlint-disable MD033 -->
+<a href="https://stackoverflow.com/users/1289713/vimal-patel"><img src="https://github-readme-stackoverflow.vercel.app/?userID=1289713&theme=dark" width="250" align="right" alt="Vimal Patel's Stackoverflow Card"/></a>
+<!-- markdownlint-enable MD033 -->
+
+
 							 
 ## 🔧 Languages:
 <p align="center">
