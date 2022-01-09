@@ -4,7 +4,7 @@
 
 <br/>
 							 
-## Languages:
+## 🔧 Languages:
 <p align="center">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="35"/>
     <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" height="35"/>
@@ -22,14 +22,25 @@
 
 <br />
 
-## Stats:
-<p align="center">
-  <img width="420px" src="https://github-readme-stats.vercel.app/api?username=patelvimal&show_icons=true&theme=radical" style="margin-right:25px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patelvimal&layout=compact&theme=radical"/>
-</p>
-<p align="center">
-  
-</p>
+
+## &#x1f4c8;  GitHub Stats
+
+
+<a href="https://github.com/patelvimal/patelvimal">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patelvimal&theme=radical&langs_count=3" />
+</a>
+<a href="https://github.com/patelvimal/patelvimal">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=patelvimal&show_icons=true&line_height=27&theme=radical" alt="Vimal Patel Stats" />
+</a>
+
+<a href="https://github.com/patelvimal/ng-vim-devtools">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=patelvimal&repo=ng-vim-devtools&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/patelvimal/ngx-dynamic-form-app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=patelvimal&repo=ngx-dynamic-form-app&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>    
+
 
 ## Connect With Me:
 <p>
@@ -51,7 +62,11 @@
 
 <p/>
 
-[![Vimal Patel StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=1289713&layout=compact )](https://stackoverflow.com/users/1289713/vimal-patel)
+
+##  &#x270d; Latest Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <!-- 
 ## My Github Activity ⚡ -->
 
