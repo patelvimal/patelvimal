@@ -1,4 +1,7 @@
-## Hi Everyone 👋 I am Vimal 🔭
+
+<a href="https://stackoverflow.com/users/1289713/vimal-patel"><img src="https://github-readme-stackoverflow.vercel.app/?userID=1289713&theme=dark" height="300" align="right" alt="Vimal Patel's Stackoverflow Card"/></a>
+
+## Hi Everyone 👋 I am Vimal Patel 🔭
 
 <br/>
 
@@ -8,9 +11,6 @@
 - 🏆 Business domain knowledge on Banking, Healthcare, E-Commerce, Insurance and various small businness.
 - 💝 Author of multiple open source projects.
 
-<!-- markdownlint-disable MD033 -->
-<a href="https://stackoverflow.com/users/1289713/vimal-patel"><img src="https://github-readme-stackoverflow.vercel.app/?userID=1289713&theme=dark" width="250" align="right" alt="Vimal Patel's Stackoverflow Card"/></a>
-<!-- markdownlint-enable MD033 -->
 
 
 							 
