@@ -1,5 +1,5 @@
 
-<a href="https://stackoverflow.com/users/1289713/vimal-patel"><img src="https://github-readme-stackoverflow.vercel.app/?userID=1289713&theme=dark" height="300" align="right" alt="Vimal Patel's Stackoverflow Card"/></a>
+<!-- <a href="https://stackoverflow.com/users/1289713/vimal-patel"><img src="https://github-readme-stackoverflow.vercel.app/?userID=1289713&theme=dark" height="300" align="right" alt="Vimal Patel's Stackoverflow Card"/></a> -->
 
 ## Hi Everyone 👋 I am Vimal Patel 🔭
 
