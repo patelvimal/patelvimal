@@ -65,6 +65,8 @@
 
 ##  &#x270d; Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Schematic to integrate prettier,commit-lint and husky in angular application](https://dev.to/patelvimal/schematic-to-integrate-prettiercommit-lint-and-husky-in-angular-application-4glf)
+- [How to use angular library locally with Hot Module Reload](https://dev.to/patelvimal/how-to-use-angular-library-locally-with-hot-module-reload-2m35)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- 
