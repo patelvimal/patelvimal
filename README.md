@@ -1,4 +1,5 @@
 ## Hi Everyone 👋 I am Vimal 🔭
+[![Social banner for patelvimal](https://github.com/patelvimal/patelvimal/raw/master/header.png)]
 
 - I am an Full stack Web Developer having 10+ years of development and implementation of business application system for Banking, Healthcare, E-Commerce, Insurance, Automobile various small businesses.
 
@@ -34,7 +35,7 @@
 </a>
 
 <a href="https://github.com/patelvimal/ng-vim-devtools">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=patelvimal&repo=ng-vim-devtools&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=patelvimal&repo=ng-vim-devtools&line_height=77&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <a href="https://github.com/patelvimal/ngx-dynamic-form-app">
