@@ -62,9 +62,8 @@
 
 <p/>
 
-[![Vimal Patel StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=1289713&layout=compact )](https://stackoverflow.com/users/1289713/vimal-patel)
 
-##  &#x270d; Blog posts
+##  &#x270d; Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
