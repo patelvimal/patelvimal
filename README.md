@@ -42,13 +42,14 @@
 <a href="https://github.com/patelvimal/patelvimal">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=patelvimal&show_icons=true&line_height=27&theme=radical" alt="Vimal Patel Stats" />
 </a>
+<br/>
 
 <a href="https://github.com/patelvimal/ng-vim-devtools">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=patelvimal&repo=ng-vim-devtools&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=patelvimal&repo=ng-vim-devtools&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1e3c62" />
 </a>
 
 <a href="https://github.com/patelvimal/ngx-dynamic-form-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=patelvimal&repo=ngx-dynamic-form-app&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=patelvimal&repo=ngx-dynamic-form-app&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1e3c62" />
 </a>    
 
 
